@@ -23,8 +23,8 @@ I enjoy working on projects that solve actual problems and give me the opportuni
 
 Here are some projects I've worked on:
 
-- **AI Agent Tag:** Developed a multiplayer tag simulation with AI agents. Worked on the full-stack implementation using React and Flask, along with designing and experimenting with AI policies and reward functions to control agent behavior.
-- **Social Media Application:** Built a social media website to explore full-stack development, including frontend development, backend functionality, and application design.
+- **[TermiTag (AI Agent Tag)](https://github.com/Seeedurk/TermiTag):** Developed a multiplayer tag simulation with AI agents. Worked on the full-stack implementation using React and Flask, along with designing and experimenting with AI policies and reward functions to control agent behavior.
+- **[Social Media Application](https://github.com/Seeedurk/SocialMedia):** Built a social media website using React and Flask, exploring full-stack development, backend functionality, database integration, and real-time communication.
 
 ### Technologies
 
