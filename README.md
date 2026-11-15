@@ -23,8 +23,8 @@ I enjoy working on projects that solve actual problems and give me the opportuni
 
 Here are some projects I've worked on:
 
-- **[AI Agent Tag](LINK_TO_REPOSITORY):** Developed a multiplayer tag simulation with AI agents. Worked on the full-stack implementation using React and Flask, along with designing and experimenting with AI policies and reward functions to control agent behavior.
-- **[Social Media Application](LINK_TO_REPOSITORY):** Built a social media website to explore full-stack development, including frontend development, backend functionality, and application design.
+- **AI Agent Tag:** Developed a multiplayer tag simulation with AI agents. Worked on the full-stack implementation using React and Flask, along with designing and experimenting with AI policies and reward functions to control agent behavior.
+- **Social Media Application:** Built a social media website to explore full-stack development, including frontend development, backend functionality, and application design.
 
 ### Technologies
 
